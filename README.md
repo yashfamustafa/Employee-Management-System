@@ -164,7 +164,7 @@ Example:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Employee-Management-System.git
+git clone https://github.com/yashfamustafa/Employee-Management-System.git
 ```
 
 ## Go to Project Folder
