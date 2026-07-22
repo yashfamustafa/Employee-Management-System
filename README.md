@@ -139,8 +139,6 @@ Bootstrap modals allow users to edit or delete records.
 
 
 ```
-screenshots/
-│
 ├── dashboard.png
 ├── add-user.png
 ├── edit-user.png
@@ -150,11 +148,13 @@ screenshots/
 Example:
 
 ```markdown
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
-![Add User](screenshots/add-user.png)
+![Add User](add-user.png)
 
-![Edit User](screenshots/edit-user.png)
+![Add User](delete-user.png)
+
+![Edit User](edit-user.png)
 ```
 
 ---
