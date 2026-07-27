@@ -23,9 +23,7 @@ The application combines server-side processing with asynchronous client-side co
 This project demonstrates practical implementation of modern web development concepts, database integration, and responsive interface design.
 
 ---
-
 # Key Features
-
 * Employee Registration
 * View Employee Records
 * Update Employee Information
