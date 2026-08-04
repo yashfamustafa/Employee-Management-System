@@ -8,13 +8,10 @@ $result = $conn->query($sql);
 
 $row = $result->fetch_assoc();
 ?>
-
-
 <!DOCTYPE html>
 <html>
 <head>
-
-    <title>Edit User</title>
+  <title>Edit User</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
 
